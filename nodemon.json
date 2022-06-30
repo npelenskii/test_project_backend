@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USER": "nikitapelenskii",
+        "DB_PASSWORD": "N27hockey31p",
+        "DB_NAME": "test"
+    }
+}
